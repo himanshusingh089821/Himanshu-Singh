@@ -2,7 +2,7 @@
 
 # Hi, I'm Himanshu-Singh! 👋
 
-I'm a self-taught developer passionate about building climate tech solutions for climate change solutions startups . Mastering **Python** for data science and learning **JavaScript**, **HTML/CSS**, and **SQL** for front-end development, I’m driven to contribute to India’s net-zero goals through innovative software and data insights.
+I'm a self-taught developer passionate about building climate tech solutions for  startups working on it . Mastering **Python** for data science and learning **JavaScript**, **HTML/CSS**, and **SQL** for front-end development, I’m driven to contribute to India’s net-zero goals through innovative software and data insights.
 
 ## 💻 Projects
 - **[CO2 Emissions Analysis](https://github.com/himanshusingh089821/co2-analysis)**: Built with Python (Pandas) to analyze global CO2 emissions, featuring Matplotlib visualizations. Developing an HTML/CSS front-end for interactive display.
